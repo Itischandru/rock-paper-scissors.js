@@ -1,0 +1,57 @@
+body{
+  background-color: rgb(20, 19, 19);
+  color: white;
+  font-family: arial;
+}
+.buttoncenter{
+  margin-left: 460px;
+}
+.recenter{
+  margin-left: 530px;
+}
+.m{
+  margin-left: 530px;
+}
+.title{
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: 500px;
+}
+.icon{
+  height: 60px;
+  background-color: transparent;
+  border: none;
+  }
+.button{
+  background-color: transparent;
+  border: solid white;
+  border-radius: 100px;
+  height: 100px;
+  width: 100px;
+  margin-right: 30px;
+  cursor: pointer;
+}
+.res{
+  font-size: 30px;
+  color: chartreuse;
+  margin-left: 490px;
+}
+.in{
+  font-size: 25px;
+  color:yellow;
+  margin-left: 590px;
+  margin-bottom: 40px;
+}
+.rr{
+  height: 40px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.rebutton{
+  width: 80px;
+  height: 40px;
+  background-color: red ;
+  color: white;
+  border: none;
+  margin-left: 590px;
+}
